@@ -1,6 +1,2 @@
 # odin-recipes
-Get better knowledge of HTML after following steps
-Understand what README is
-Improve knowledge of Command Line
-Understand how to commit
-Create effective concise commit messages
+This will be my first somewhat freeform project learning HTML syntax.  In it, I will create a webpage that shows how to make a recipe.  I hope to demonstrate knowledge of the command line, proper format for HTML, and how to write effective, concise commit messages.
